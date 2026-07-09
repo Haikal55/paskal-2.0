@@ -184,3 +184,11 @@ Berikut adalah tampilan visualisasi modul-modul utama aplikasi PASKAL yang diamb
 Untuk masuk ke **Mode Admin** (menambah, mengedit, dan menghapus buku):
 * Klik tombol **🔑 Login Admin** di bagian bawah sidebar.
 * Masukkan password: **`admin`**.
+
+---
+
+## ⚖️ Hak Cipta & Lisensi (Copyright & License)
+
+Hak Cipta &copy; 2026 oleh **Haikal**. Seluruh Hak Cipta Dilindungi Undang-Undang.
+
+Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE). Proyek ini dibangun khusus untuk memenuhi persyaratan penilaian akademis Ujian Akhir Semester (UAS) pada Program Studi Informatika, Universitas Sebelas April.
