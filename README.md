@@ -167,15 +167,15 @@ Jika Anda ingin mempublikasikan aplikasi agar bisa diakses oleh dosen/teman mela
 Berikut adalah tampilan visualisasi modul-modul utama aplikasi PASKAL yang diambil secara real-time:
 
 1. **Katalog & Sirkulasi Buku (Admin Mode & Statistik)**
-   ![Katalog Buku](screenshots/screenshot_catalog.png)
+   ![Katalog Buku](screenshots/screenshot_catalog_v2.png)
 2. **Antrean Sirkulasi Buku (Doubly Linked List)**
-   ![Antrean Peminjaman](screenshots/screenshot_queue_dll.png)
+   ![Antrean Peminjaman](screenshots/screenshot_queue_v2.png)
 3. **Indeks ISBN (Binary Search Tree)**
-   ![Pohon BST ISBN](screenshots/screenshot_bst.png)
+   ![Pohon BST ISBN](screenshots/screenshot_bst_v2.png)
 4. **Peta Navigasi Rak (Graph & Dijkstra)**
-   ![Rute Dijkstra](screenshots/screenshot_map.png)
+   ![Rute Dijkstra](screenshots/screenshot_map_v2.png)
 5. **Manajemen Anggota (Binary Search)**
-   ![Pencarian Anggota](screenshots/screenshot_members.png)
+   ![Pencarian Anggota](screenshots/screenshot_members_v2.png)
 
 ---
 
