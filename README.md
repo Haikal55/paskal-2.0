@@ -10,6 +10,13 @@ Aplikasi ini menggunakan stack teknologi modern:
 
 ---
 
+## 📖 Panduan Penggunaan Resmi (PDF)
+
+Dokumen laporan panduan penggunaan resmi sistem perpustakaan PASKAL v2.0 dapat diunduh pada link berikut:
+👉 **[Panduan_Cara_Kerja_PASKAL.pdf](Panduan_Cara_Kerja_PASKAL.pdf)**
+
+---
+
 ## 🛠️ Prasyarat (Prerequisites)
 
 Pastikan perangkat Anda sudah terinstal:
@@ -162,7 +169,7 @@ Berikut adalah tampilan visualisasi modul-modul utama aplikasi PASKAL yang diamb
 1. **Katalog & Sirkulasi Buku (Admin Mode & Statistik)**
    ![Katalog Buku](screenshots/screenshot_catalog.png)
 2. **Antrean Sirkulasi Buku (Doubly Linked List)**
-   ![Antrean Peminjaman](screenshots/screenshot_queue.png)
+   ![Antrean Peminjaman](screenshots/screenshot_queue_dll.png)
 3. **Indeks ISBN (Binary Search Tree)**
    ![Pohon BST ISBN](screenshots/screenshot_bst.png)
 4. **Peta Navigasi Rak (Graph & Dijkstra)**
