@@ -167,15 +167,15 @@ Jika Anda ingin mempublikasikan aplikasi agar bisa diakses oleh dosen/teman mela
 Berikut adalah tampilan visualisasi modul-modul utama aplikasi PASKAL yang diambil secara real-time:
 
 1. **Katalog & Sirkulasi Buku (Admin Mode & Statistik)**
-   ![Katalog Buku](screenshots/1.png)
+   ![Katalog Buku](https://cdn.jsdelivr.net/gh/Haikal55/paskal-2.0@main/screenshots/1.png)
 2. **Antrean Sirkulasi Buku (Doubly Linked List)**
-   ![Antrean Peminjaman](screenshots/2.png)
+   ![Antrean Peminjaman](https://cdn.jsdelivr.net/gh/Haikal55/paskal-2.0@main/screenshots/2.png)
 3. **Indeks ISBN (Binary Search Tree)**
-   ![Pohon BST ISBN](screenshots/3.png)
+   ![Pohon BST ISBN](https://cdn.jsdelivr.net/gh/Haikal55/paskal-2.0@main/screenshots/3.png)
 4. **Peta Navigasi Rak (Graph & Dijkstra)**
-   ![Rute Dijkstra](screenshots/4.png)
+   ![Rute Dijkstra](https://cdn.jsdelivr.net/gh/Haikal55/paskal-2.0@main/screenshots/4.png)
 5. **Manajemen Anggota (Binary Search)**
-   ![Pencarian Anggota](screenshots/5.png)
+   ![Pencarian Anggota](https://cdn.jsdelivr.net/gh/Haikal55/paskal-2.0@main/screenshots/5.png)
 
 ---
 
